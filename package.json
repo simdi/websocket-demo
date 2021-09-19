@@ -9,5 +9,11 @@
   },
   "keywords": [],
   "author": "Chisimdi Ezeanieto",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "1.0.34"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.12"
+  }
 }
